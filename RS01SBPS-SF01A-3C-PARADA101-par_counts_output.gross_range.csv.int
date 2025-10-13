@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPS,SF01A,3C-PARADA101,parad_sa_sample,{'inp': 'par_counts_output'},"{'qartod': {'gross_range_test': {'suspect_span': [0.00091, 299.64136], 'fail_span': [0, 5000]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."
