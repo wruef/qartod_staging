@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPS,SF01A,3A-FLORTD101,flort_d_data_record,{'inp': 'fluorometric_chlorophyll_a'},"{'qartod': {'gross_range_test': {'suspect_span': [0.0107, 3.8065], 'fail_span': [0, 50]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."

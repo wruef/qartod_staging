@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPS,PC01A,4C-FLORDD103,flort_d_data_record,{'inp': 'optical_backscatter'},"{'qartod': {'gross_range_test': {'suspect_span': [1e-05, 0.06413], 'fail_span': [0, 5]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."
