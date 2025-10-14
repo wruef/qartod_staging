@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03ASHS,MJ03B,07-TMPSFA301,tmpsf_sample,{'inp': 'temperature17'},"{'qartod': {'gross_range_test': {'suspect_span': [2.3176, 4.9122], 'fail_span': [-5, 400]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."
