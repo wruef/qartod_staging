@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03AXPD,DP03A,03-FLNTUA302,dpc_flnturtd_instrument_recovered,{'inp': 'flntu_x_mmp_cds_bback_total'},"{'qartod': {'gross_range_test': {'suspect_span': [2e-05, 0.47878], 'fail_span': [0, 5]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."
