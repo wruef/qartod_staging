@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPS,SF01A,4B-VELPTD102,velpt_velocity_data,{'inp': 'velpt_d_upward_velocity'},"{'qartod': {'gross_range_test': {'suspect_span': [-2.759, 1.361], 'fail_span': [-5, 5]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."
