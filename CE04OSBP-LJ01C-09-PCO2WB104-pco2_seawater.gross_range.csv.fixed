@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSBP,LJ01C,09-PCO2WB104,pco2w_b_sami_data_record,{'inp': 'pco2_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [756.68882, 1762.91369], 'fail_span': [200, 2000]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."

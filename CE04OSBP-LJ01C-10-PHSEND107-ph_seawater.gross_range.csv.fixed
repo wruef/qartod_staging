@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSBP,LJ01C,10-PHSEND107,phsen_data_record,{'inp': 'ph_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [7.12657, 8.20778], 'fail_span': [6.9, 9.0]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."

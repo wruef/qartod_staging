@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPS,SF01A,2A-CTDPFA102,ctdpf_sbe43_sample,{'inp': 'sea_water_practical_salinity'},"{'qartod': {'gross_range_test': {'suspect_span': [30.10486, 34.00013], 'fail_span': [0, 42]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."

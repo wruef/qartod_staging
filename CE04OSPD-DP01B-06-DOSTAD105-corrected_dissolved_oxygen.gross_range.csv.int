@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPD,DP01B,06-DOSTAD105,dpc_optode_instrument_recovered,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [11.03457, 167.8184], 'fail_span': [0, 500]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."

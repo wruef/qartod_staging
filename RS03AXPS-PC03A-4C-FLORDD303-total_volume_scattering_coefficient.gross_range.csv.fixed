@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,PC03A,4C-FLORDD303,flort_d_data_record,{'inp': 'total_volume_scattering_coefficient'},"{'qartod': {'gross_range_test': {'suspect_span': [3e-05, 0.01263], 'fail_span': [0, 375]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."

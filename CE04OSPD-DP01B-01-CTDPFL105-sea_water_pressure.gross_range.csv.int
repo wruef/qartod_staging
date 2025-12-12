@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameter,qcConfig,source,notes
-CE04OSPD,DP01B,01-CTDPFL105,dpc_ctd_instrument_recovered,{'inp': 'sea_water_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [98.62, 581.40997], 'fail_span': [0, 6000]}}}",,"User range based on percentiles of the observations, which are not normally distributed. Percentiles were chosen to cover 99.7% of the data, approximating the Empirical Rule."
