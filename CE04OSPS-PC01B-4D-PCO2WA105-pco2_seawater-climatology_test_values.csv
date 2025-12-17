@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+CE04OSPS,PC01B,4D-PCO2WA105,pco2w_a_sami_data_record,"{'inp': 'pco2_seawater', 'tinp': 'time', 'zinp': None}",climatology_tables/CE04OSPS-PC01B-4D-PCO2WA105-pco2_seawater.climatology_table.csv,,Harmonic regression variance explained: R²=0.994
