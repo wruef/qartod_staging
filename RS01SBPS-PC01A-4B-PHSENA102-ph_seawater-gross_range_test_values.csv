@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPS,PC01A,4B-PHSENA102,phsen_data_record,{'inp': 'ph_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [7.56, 8.02], 'fail_span': [6.9, 9]}}}",,"Non-normal distribution (skew=2.007, excess_kurt=34.005): using 0.15th and 99.85th percentiles (99.7% coverage)."

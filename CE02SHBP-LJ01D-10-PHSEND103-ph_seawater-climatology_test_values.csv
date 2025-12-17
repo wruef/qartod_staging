@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+CE02SHBP,LJ01D,10-PHSEND103,phsen_data_record,"{'inp': 'ph_seawater', 'tinp': 'time', 'zinp': None}",climatology_tables/CE02SHBP-LJ01D-10-PHSEND103-ph_seawater.climatology_table.csv,,Harmonic regression variance explained: R²=0.993
