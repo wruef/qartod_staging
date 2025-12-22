@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPD,DP01A,06-DOSTAD104,dpc_optode_instrument_recovered,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [6.56, 158.4], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=0.305, excess_kurt=-3.613): using 0.15th and 99.85th percentiles (99.7% coverage)."

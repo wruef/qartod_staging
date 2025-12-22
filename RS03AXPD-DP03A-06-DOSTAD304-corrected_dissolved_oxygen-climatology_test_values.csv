@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS03AXPD,DP03A,06-DOSTAD304,dpc_optode_instrument_recovered,"{'inp': 'corrected_dissolved_oxygen', 'tinp': 'time', 'zinp': 'int_ctd_pressure'}",climatology_tables/RS03AXPD-DP03A-06-DOSTAD304-corrected_dissolved_oxygen.climatology_table.csv,,Variance not reported for binned profiler climatology

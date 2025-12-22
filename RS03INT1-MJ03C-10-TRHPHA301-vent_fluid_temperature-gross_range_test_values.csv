@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03INT1,MJ03C,10-TRHPHA301,trhph_sample,{'inp': 'vent_fluid_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [1.95, 340.07], 'fail_span': [0, 400]}}}",,"Non-normal distribution (skew=-1.740, excess_kurt=-1.568): using 0.15th and 99.85th percentiles (99.7% coverage)."
