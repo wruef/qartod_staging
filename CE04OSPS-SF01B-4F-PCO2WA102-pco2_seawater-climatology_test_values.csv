@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+CE04OSPS,SF01B,4F-PCO2WA102,pco2w_a_sami_data_record,"{'inp': 'pco2_seawater', 'tinp': 'time', 'zinp': 'int_ctd_pressure'}",climatology_tables/CE04OSPS-SF01B-4F-PCO2WA102-pco2_seawater.climatology_table.csv,,Variance not reported for binned profiler climatology
