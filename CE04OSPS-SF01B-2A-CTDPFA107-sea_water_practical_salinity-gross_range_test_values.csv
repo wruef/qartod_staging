@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+CE04OSPS,SF01B,2A-CTDPFA107,ctdpf_sbe43_sample,{'inp': 'sea_water_practical_salinity'},"{'qartod': {'gross_range_test': {'suspect_span': [33.29, 34.02], 'fail_span': [0, 42]}}}",,"Non-normal distribution (skew=-2.008, excess_kurt=1.796): using 0.15th and 99.85th percentiles (99.7% coverage)."

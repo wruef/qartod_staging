@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS03AXBS,LJ03A,12-CTDPFB301,ctdpf_optode_sample,"{'inp': 'dissolved_oxygen', 'tinp': 'time', 'zinp': None}",climatology_tables/RS03AXBS-LJ03A-12-CTDPFB301-dissolved_oxygen.climatology_table.csv,,Harmonic regression variance explained: R²=0.886
