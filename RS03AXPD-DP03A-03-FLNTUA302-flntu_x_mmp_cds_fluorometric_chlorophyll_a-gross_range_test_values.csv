@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03AXPD,DP03A,03-FLNTUA302,dpc_flnturtd_instrument_recovered,{'inp': 'flntu_x_mmp_cds_fluorometric_chlorophyll_a'},"{'qartod': {'gross_range_test': {'suspect_span': [0.01, 3.05], 'fail_span': [0, 50]}}}",,"Non-normal distribution (skew=74.899, excess_kurt=10214.101): using 0.15th and 99.85th percentiles (99.7% coverage)."

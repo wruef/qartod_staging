@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03AXPD,DP03A,03-FLNTUA302,dpc_flnturtd_instrument_recovered,{'inp': 'flntu_x_mmp_cds_bback_total'},"{'qartod': {'gross_range_test': {'suspect_span': [0.0, 0.54], 'fail_span': [0, 5]}}}",,"Non-normal distribution (skew=10.219, excess_kurt=115.216): using 0.15th and 99.85th percentiles (99.7% coverage)."

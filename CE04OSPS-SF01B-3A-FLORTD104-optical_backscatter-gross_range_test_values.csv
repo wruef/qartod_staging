@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+CE04OSPS,SF01B,3A-FLORTD104,flort_d_data_record,{'inp': 'optical_backscatter'},"{'qartod': {'gross_range_test': {'suspect_span': [0.0, 0.05], 'fail_span': [0, 5]}}}",,"Non-normal distribution (skew=3.545, excess_kurt=8.668): using 0.15th and 99.85th percentiles (99.7% coverage)."

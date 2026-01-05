@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS01SBPS,SF01A,3A-FLORTD101,flort_d_data_record,"{'inp': 'total_volume_scattering_coefficient', 'tinp': 'time', 'zinp': 'int_ctd_pressure'}",climatology_tables/RS01SBPS-SF01A-3A-FLORTD101-total_volume_scattering_coefficient.climatology_table.csv,,Variance not reported for binned profiler climatology
