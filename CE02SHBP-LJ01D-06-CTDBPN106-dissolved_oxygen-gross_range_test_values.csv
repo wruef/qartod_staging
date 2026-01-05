@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+CE02SHBP,LJ01D,06-CTDBPN106,ctdbp_no_sample,{'inp': 'dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [86.15, 267.65], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=nan, excess_kurt=nan): using 0.15th and 99.85th percentiles (99.7% coverage)."

@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+CE04OSBP,LJ01C,06-CTDBPO108,ctdbp_no_sample,{'inp': 'sea_water_electrical_conductivity'},"{'qartod': {'gross_range_test': {'suspect_span': [3.02, 3.41], 'fail_span': [0, 9]}}}",,"Non-normal distribution (skew=-2.561, excess_kurt=2.778): using 0.15th and 99.85th percentiles (99.7% coverage)."

@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS03AXPS,PC03A,4C-FLORDD303,flort_d_data_record,"{'inp': 'fluorometric_chlorophyll_a', 'tinp': 'time', 'zinp': None}",climatology_tables/RS03AXPS-PC03A-4C-FLORDD303-fluorometric_chlorophyll_a.climatology_table.csv,,Harmonic regression variance explained: R²=0.871

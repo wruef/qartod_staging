@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS01SBPS,PC01A,4C-FLORDD103,flort_d_data_record,"{'inp': 'optical_backscatter', 'tinp': 'time', 'zinp': None}",climatology_tables/RS01SBPS-PC01A-4C-FLORDD103-optical_backscatter.climatology_table.csv,,Harmonic regression variance explained: R²=0.832
