@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03AXBS,MJ03A,12-VEL3DB301,vel3d_b_sample,{'inp': 'northward_turbulent_velocity'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.06, 0.62], 'fail_span': [-5, 5]}}}",,"Non-normal distribution (skew=-2.336, excess_kurt=220.688): using 0.15th and 99.85th percentiles (99.7% coverage)."

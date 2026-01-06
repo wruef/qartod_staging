@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPS,PC01A,4C-FLORDD103,flort_d_data_record,{'inp': 'optical_backscatter'},"{'qartod': {'gross_range_test': {'suspect_span': [0.0, 0.07], 'fail_span': [0, 5]}}}",,"Non-normal distribution (skew=8.758, excess_kurt=76.420): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS01SBPS,PC01A,4C-FLORDD103,flort_d_data_record,{'inp': 'optical_backscatter'},"{'qartod': {'gross_range_test': {'suspect_span': [0.0, 0.07], 'fail_span': [0, 5]}}}",,"Non-normal distribution (skew=8.758, excess_kurt=76.411): using 0.15th and 99.85th percentiles (99.7% coverage)."

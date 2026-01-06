@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS03AXBS,MJ03A,12-VEL3DB301,vel3d_b_sample,"{'inp': 'temperature', 'tinp': 'time', 'zinp': None}",climatology_tables/RS03AXBS-MJ03A-12-VEL3DB301-temperature.climatology_table.csv,,Harmonic regression variance explained: R²=0.977
