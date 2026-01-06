@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPD,DP01A,01-CTDPFL104,dpc_ctd_instrument_recovered,{'inp': 'sea_water_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [1.7, 9.12], 'fail_span': [-5, 35]}}}",,"Non-normal distribution (skew=1.397, excess_kurt=-0.858): using 0.15th and 99.85th percentiles (99.7% coverage)."
