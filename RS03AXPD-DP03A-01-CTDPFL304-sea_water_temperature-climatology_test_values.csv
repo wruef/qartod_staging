@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS03AXPD,DP03A,01-CTDPFL304,dpc_ctd_instrument_recovered,"{'inp': 'sea_water_temperature', 'tinp': 'time', 'zinp': 'sea_water_pressure'}",climatology_tables/RS03AXPD-DP03A-01-CTDPFL304-sea_water_temperature.climatology_table.csv,,Variance not reported for binned profiler climatology

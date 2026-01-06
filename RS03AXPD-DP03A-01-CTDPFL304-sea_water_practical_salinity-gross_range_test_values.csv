@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03AXPD,DP03A,01-CTDPFL304,dpc_ctd_instrument_recovered,{'inp': 'sea_water_practical_salinity'},"{'qartod': {'gross_range_test': {'suspect_span': [34.04, 35.67], 'fail_span': [0, 42]}}}",,"Non-normal distribution (skew=-4.383, excess_kurt=249.386): using 0.15th and 99.85th percentiles (99.7% coverage)."
