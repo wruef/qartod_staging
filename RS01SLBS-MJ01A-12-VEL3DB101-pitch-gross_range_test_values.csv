@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SLBS,MJ01A,12-VEL3DB101,vel3d_b_sample,{'inp': 'pitch'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.9, -0.5], 'fail_span': [-70, 70]}}}",,"Non-normal distribution (skew=-82.659, excess_kurt=7311.048): using 0.15th and 99.85th percentiles (99.7% coverage)."
