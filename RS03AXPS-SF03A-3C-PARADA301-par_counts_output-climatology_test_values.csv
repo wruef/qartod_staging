@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS03AXPS,SF03A,3C-PARADA301,parad_sa_sample,"{'inp': 'par_counts_output', 'tinp': 'time', 'zinp': 'int_ctd_pressure'}",climatology_tables/RS03AXPS-SF03A-3C-PARADA301-par_counts_output.climatology_table.csv,,Variance not reported for binned profiler climatology
