@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,climatologyTable,source,notes
+RS03AXPS,SF03A,3A-FLORTD301,flort_d_data_record,"{'inp': 'fluorometric_cdom', 'tinp': 'time', 'zinp': 'int_ctd_pressure'}",climatology_tables/RS03AXPS-SF03A-3A-FLORTD301-fluorometric_cdom.climatology_table.csv,,Variance not reported for binned profiler climatology
