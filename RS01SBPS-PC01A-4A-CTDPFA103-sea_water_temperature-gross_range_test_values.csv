@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPS,PC01A,4A-CTDPFA103,ctdpf_optode_sample,{'inp': 'sea_water_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [6.57, 8.77], 'fail_span': [-5, 35]}}}",,"Normal distribution (skew=0.799, excess_kurt=-1.641): using mean ± 3.0 standard deviations (μ=7.67, σ=0.37)."

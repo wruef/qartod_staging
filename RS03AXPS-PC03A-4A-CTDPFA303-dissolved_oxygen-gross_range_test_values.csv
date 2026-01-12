@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,PC03A,4A-CTDPFA303,ctdpf_optode_sample,{'inp': 'dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [153.59, 204.35], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=-0.474, excess_kurt=-2.994): using 0.15th and 99.85th percentiles (99.7% coverage)."

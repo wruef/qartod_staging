@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPD,DP01B,02-VEL3DA105,dpc_acm_instrument_recovered,{'inp': 'vel3d_a_upward_velocity_descending'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.1, 0.4], 'fail_span': [-5, 5]}}}",,"Non-normal distribution (skew=0.565, excess_kurt=-2.915): using 0.15th and 99.85th percentiles (99.7% coverage)."

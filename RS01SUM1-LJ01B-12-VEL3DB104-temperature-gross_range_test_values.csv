@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SUM1,LJ01B,12-VEL3DB104,vel3d_b_sample,{'inp': 'temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [4.1, 4.72], 'fail_span': [-5, 35]}}}",,"Non-normal distribution (skew=0.243, excess_kurt=-3.105): using 0.15th and 99.85th percentiles (99.7% coverage)."

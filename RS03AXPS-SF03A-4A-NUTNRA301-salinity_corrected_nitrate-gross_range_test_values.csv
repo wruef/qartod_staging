@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,SF03A,4A-NUTNRA301,nutnr_a_sample,{'inp': 'salinity_corrected_nitrate'},"{'qartod': {'gross_range_test': {'suspect_span': [0.04, 35.21], 'fail_span': [0, 300]}}}",,"Non-normal distribution (skew=-0.029, excess_kurt=-4.374): using 0.15th and 99.85th percentiles (99.7% coverage)."

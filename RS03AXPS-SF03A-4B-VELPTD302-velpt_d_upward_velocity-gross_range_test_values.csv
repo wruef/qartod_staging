@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,SF03A,4B-VELPTD302,velpt_velocity_data,{'inp': 'velpt_d_upward_velocity'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.32, 4.09], 'fail_span': [-5, 5]}}}",,"Non-normal distribution (skew=2.065, excess_kurt=1.885): using 0.15th and 99.85th percentiles (99.7% coverage)."

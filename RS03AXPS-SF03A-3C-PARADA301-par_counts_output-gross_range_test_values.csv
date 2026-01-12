@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,SF03A,3C-PARADA301,parad_sa_sample,{'inp': 'par_counts_output'},"{'qartod': {'gross_range_test': {'suspect_span': [0.12, 721.78], 'fail_span': [0, 5000]}}}",,"Non-normal distribution (skew=10.360, excess_kurt=149.356): using 0.15th and 99.85th percentiles (99.7% coverage)."

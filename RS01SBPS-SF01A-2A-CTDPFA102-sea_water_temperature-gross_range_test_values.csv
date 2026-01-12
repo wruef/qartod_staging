@@ -1,2 +1,0 @@
-subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPS,SF01A,2A-CTDPFA102,ctdpf_sbe43_sample,{'inp': 'sea_water_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [7.44, 18.41], 'fail_span': [-5, 35]}}}",,"Non-normal distribution (skew=2.363, excess_kurt=4.614): using 0.15th and 99.85th percentiles (99.7% coverage)."
