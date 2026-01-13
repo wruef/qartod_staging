@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03AXPS,SF03A,3A-FLORTD301,flort_d_data_record,{'inp': 'fluorometric_cdom'},"{'qartod': {'gross_range_test': {'suspect_span': [0.09, 29.36], 'fail_span': [0, 375]}}}",,"Non-normal distribution (skew=6.542, excess_kurt=73.525): using 0.15th and 99.85th percentiles (99.7% coverage)."

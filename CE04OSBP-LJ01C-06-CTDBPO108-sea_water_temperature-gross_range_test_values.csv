@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+CE04OSBP,LJ01C,06-CTDBPO108,ctdbp_no_sample,{'inp': 'sea_water_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [4.37, 5.53], 'fail_span': [-5, 35]}}}",,"Normal distribution (skew=0.057, excess_kurt=-0.805): using mean ± 3.0 standard deviations (μ=4.95, σ=0.19)."
