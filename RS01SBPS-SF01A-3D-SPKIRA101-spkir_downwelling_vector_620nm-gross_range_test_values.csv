@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPS,SF01A,3D-SPKIRA101,spkir_data_record,{'inp': 'spkir_downwelling_vector_620nm'},"{'qartod': {'gross_range_test': {'suspect_span': [0.0, 19.85], 'fail_span': [0, 300]}}}",,"Non-normal distribution (skew=3.542, excess_kurt=15.966): using 0.15th and 99.85th percentiles (99.7% coverage)."
