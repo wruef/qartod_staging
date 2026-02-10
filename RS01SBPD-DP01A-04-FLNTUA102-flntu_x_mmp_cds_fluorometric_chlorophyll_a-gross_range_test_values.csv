@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPD,DP01A,04-FLNTUA102,dpc_flnturtd_instrument_recovered,{'inp': 'flntu_x_mmp_cds_fluorometric_chlorophyll_a'},"{'qartod': {'gross_range_test': {'suspect_span': [0.01, 0.57], 'fail_span': [0, 50]}}}",,"Non-normal distribution (skew=57.278, excess_kurt=3429.465): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS01SBPD,DP01A,04-FLNTUA102,dpc_flnturtd_instrument_recovered,{'inp': 'flntu_x_mmp_cds_fluorometric_chlorophyll_a'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.02, 16.12], 'fail_span': [-0.2, 50]}}}",,"Non-normal distribution (skew=57.915, excess_kurt=3508.532): using 0.0015th and 99.9985th percentiles (99.7% coverage)."

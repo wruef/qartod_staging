@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03INT2,MJ03D,11-CTDPFB307,ctdpf_optode_sample,{'inp': 'sea_water_practical_salinity'},"{'qartod': {'gross_range_test': {'suspect_span': [34.52, 34.54], 'fail_span': [0, 42]}}}",,"Normal distribution (skew=0.599, excess_kurt=1.528): using mean ± 3.0 standard deviations (μ=34.53, σ=0.00)."
+RS03INT2,MJ03D,11-CTDPFB307,ctdpf_optode_sample,{'inp': 'sea_water_practical_salinity'},"{'qartod': {'gross_range_test': {'suspect_span': [34.51, 34.55], 'fail_span': [0, 42]}}}",,"Normal distribution (skew=0.599, excess_kurt=1.528): using mean ± 4.0 standard deviations (μ=34.53, σ=0.00)."

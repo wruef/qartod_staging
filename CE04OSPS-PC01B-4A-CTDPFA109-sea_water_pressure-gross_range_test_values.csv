@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPS,PC01B,4A-CTDPFA109,ctdpf_optode_sample,{'inp': 'sea_water_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [172.48, 202.55], 'fail_span': [0, 6000]}}}",,"Non-normal distribution (skew=-1.840, excess_kurt=0.337): using 0.15th and 99.85th percentiles (99.7% coverage)."
+CE04OSPS,PC01B,4A-CTDPFA109,ctdpf_optode_sample,{'inp': 'sea_water_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [171.98, 212.87], 'fail_span': [0, 6000]}}}",,"Non-normal distribution (skew=-1.840, excess_kurt=0.337): using 0.0015th and 99.9985th percentiles (99.7% coverage)."

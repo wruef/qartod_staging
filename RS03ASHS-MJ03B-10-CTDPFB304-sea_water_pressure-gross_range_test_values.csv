@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03ASHS,MJ03B,10-CTDPFB304,ctdpf_optode_sample,{'inp': 'sea_water_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [1555.93, 1560.34], 'fail_span': [0, 6000]}}}",,"Non-normal distribution (skew=-0.233, excess_kurt=-3.346): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS03ASHS,MJ03B,10-CTDPFB304,ctdpf_optode_sample,{'inp': 'sea_water_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [1555.66, 1560.79], 'fail_span': [0, 6000]}}}",,"Non-normal distribution (skew=-0.233, excess_kurt=-3.346): using 0.0015th and 99.9985th percentiles (99.7% coverage)."

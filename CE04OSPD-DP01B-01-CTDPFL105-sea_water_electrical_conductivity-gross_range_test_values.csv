@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPD,DP01B,01-CTDPFL105,dpc_ctd_instrument_recovered,{'inp': 'sea_water_electrical_conductivity'},"{'qartod': {'gross_range_test': {'suspect_span': [3.28, 3.63], 'fail_span': [0, 9]}}}",,"Non-normal distribution (skew=0.459, excess_kurt=18.684): using 0.15th and 99.85th percentiles (99.7% coverage)."
+CE04OSPD,DP01B,01-CTDPFL105,dpc_ctd_instrument_recovered,{'inp': 'sea_water_electrical_conductivity'},"{'qartod': {'gross_range_test': {'suspect_span': [2.6, 3.66], 'fail_span': [0, 9]}}}",,"Non-normal distribution (skew=0.459, excess_kurt=18.684): using 0.0015th and 99.9985th percentiles (99.7% coverage)."

@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPD,DP03A,01-CTDPFL304,dpc_ctd_instrument_recovered,{'inp': 'sea_water_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [128.92, 2641.13], 'fail_span': [0, 6000]}}}",,"Non-normal distribution (skew=-0.519, excess_kurt=-4.097): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS03AXPD,DP03A,01-CTDPFL304,dpc_ctd_instrument_recovered,{'inp': 'sea_water_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [0.08, 2649.57], 'fail_span': [0, 6000]}}}",,"Non-normal distribution (skew=-0.519, excess_kurt=-4.097): using 0.0015th and 99.9985th percentiles (99.7% coverage)."

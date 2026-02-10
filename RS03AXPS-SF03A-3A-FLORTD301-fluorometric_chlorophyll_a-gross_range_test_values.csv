@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,SF03A,3A-FLORTD301,flort_d_data_record,{'inp': 'fluorometric_chlorophyll_a'},"{'qartod': {'gross_range_test': {'suspect_span': [0.01, 27.76], 'fail_span': [0, 50]}}}",,"Non-normal distribution (skew=12.427, excess_kurt=208.571): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS03AXPS,SF03A,3A-FLORTD301,flort_d_data_record,{'inp': 'fluorometric_chlorophyll_a'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.2, 49.49], 'fail_span': [-0.2, 50]}}}",,"Non-normal distribution (skew=13.343, excess_kurt=242.847): using 0.0015th and 99.9985th percentiles (99.7% coverage)."

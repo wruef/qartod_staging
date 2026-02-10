@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPS,PC01A,4C-FLORDD103,flort_d_data_record,{'inp': 'total_volume_scattering_coefficient'},"{'qartod': {'gross_range_test': {'suspect_span': [0.0, 0.01], 'fail_span': [0, 375]}}}",,"Non-normal distribution (skew=8.773, excess_kurt=76.704): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS01SBPS,PC01A,4C-FLORDD103,flort_d_data_record,{'inp': 'total_volume_scattering_coefficient'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.0, 0.01], 'fail_span': [-0.2, 375]}}}",,"Non-normal distribution (skew=8.798, excess_kurt=77.184): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
