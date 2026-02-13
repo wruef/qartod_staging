@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPD,DP01B,03-FLCDRA103,dpc_flcdrtd_instrument_recovered,{'inp': 'flcdr_x_mmp_cds_fluorometric_cdom'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.17, 11.59], 'fail_span': [-0.2, 375]}}}",,"Non-normal distribution (skew=1.593, excess_kurt=4.269): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+CE04OSPD,DP01B,03-FLCDRA103,dpc_flcdrtd_instrument_recovered,{'inp': 'flcdr_x_mmp_cds_fluorometric_cdom'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.18, 47.82], 'fail_span': [-0.2, 375]}}}",,"Non-normal distribution (skew=1.593, excess_kurt=4.269): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."

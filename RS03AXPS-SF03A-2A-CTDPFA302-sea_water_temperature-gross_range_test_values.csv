@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,SF03A,2A-CTDPFA302,ctdpf_sbe43_sample,{'inp': 'sea_water_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [6.37, 19.11], 'fail_span': [-5, 35]}}}",,"Non-normal distribution (skew=2.233, excess_kurt=2.606): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+RS03AXPS,SF03A,2A-CTDPFA302,ctdpf_sbe43_sample,{'inp': 'sea_water_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [6.29, 19.48], 'fail_span': [-5, 35]}}}",,"Non-normal distribution (skew=2.233, excess_kurt=2.606): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."

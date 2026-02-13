@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03ASHS,MJ03B,10-CTDPFB304,ctdpf_optode_sample,{'inp': 'sea_water_electrical_conductivity'},"{'qartod': {'gross_range_test': {'suspect_span': [3.05, 3.2], 'fail_span': [0, 9]}}}",,"Non-normal distribution (skew=-2.288, excess_kurt=266.069): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+RS03ASHS,MJ03B,10-CTDPFB304,ctdpf_optode_sample,{'inp': 'sea_water_electrical_conductivity'},"{'qartod': {'gross_range_test': {'suspect_span': [2.22, 3.22], 'fail_span': [0, 9]}}}",,"Non-normal distribution (skew=-2.288, excess_kurt=266.069): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."

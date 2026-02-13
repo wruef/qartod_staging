@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPD,DP03A,03-FLNTUA302,dpc_flnturtd_instrument_recovered,{'inp': 'flntu_x_mmp_cds_bback_total'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.0, 0.54], 'fail_span': [-0.2, 5]}}}",,"Non-normal distribution (skew=10.221, excess_kurt=115.250): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+RS03AXPD,DP03A,03-FLNTUA302,dpc_flnturtd_instrument_recovered,{'inp': 'flntu_x_mmp_cds_bback_total'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.0, 1.38], 'fail_span': [-0.2, 5]}}}",,"Non-normal distribution (skew=10.221, excess_kurt=115.250): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."

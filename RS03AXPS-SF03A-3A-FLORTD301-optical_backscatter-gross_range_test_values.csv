@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,SF03A,3A-FLORTD301,flort_d_data_record,{'inp': 'optical_backscatter'},"{'qartod': {'gross_range_test': {'suspect_span': [0.0, 0.08], 'fail_span': [-0.2, 5]}}}",,"Non-normal distribution (skew=4.537, excess_kurt=37.385): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+RS03AXPS,SF03A,3A-FLORTD301,flort_d_data_record,{'inp': 'optical_backscatter'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.0, 0.08], 'fail_span': [-0.2, 5]}}}",,"Non-normal distribution (skew=4.537, excess_kurt=37.385): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."

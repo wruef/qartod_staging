@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPS,PC01A,4A-CTDPFA103,ctdpf_optode_sample,{'inp': 'sea_water_electrical_conductivity'},"{'qartod': {'gross_range_test': {'suspect_span': [2.08, 3.65], 'fail_span': [0, 9]}}}",,"Non-normal distribution (skew=-10.370, excess_kurt=256.582): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+RS01SBPS,PC01A,4A-CTDPFA103,ctdpf_optode_sample,{'inp': 'sea_water_electrical_conductivity'},"{'qartod': {'gross_range_test': {'suspect_span': [1.55, 3.65], 'fail_span': [0, 9]}}}",,"Non-normal distribution (skew=-10.370, excess_kurt=256.582): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."

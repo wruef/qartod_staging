@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03ECAL,MJ03E,12-CTDPFB306,ctdpf_optode_sample,{'inp': 'sea_water_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [2.19, 2.48], 'fail_span': [-5, 35]}}}",,"Non-normal distribution (skew=-0.230, excess_kurt=-2.760): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+RS03ECAL,MJ03E,12-CTDPFB306,ctdpf_optode_sample,{'inp': 'sea_water_temperature'},"{'qartod': {'gross_range_test': {'suspect_span': [2.19, 2.49], 'fail_span': [-5, 35]}}}",,"Non-normal distribution (skew=-0.230, excess_kurt=-2.760): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."

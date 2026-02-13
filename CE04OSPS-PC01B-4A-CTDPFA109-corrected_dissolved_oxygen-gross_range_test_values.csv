@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPS,PC01B,4A-CTDPFA109,ctdpf_optode_sample,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [13.24, 475.77], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=nan, excess_kurt=nan): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+CE04OSPS,PC01B,4A-CTDPFA109,ctdpf_optode_sample,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [13.09, 499.43], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=nan, excess_kurt=nan): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."

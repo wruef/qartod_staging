@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,SF03A,2A-CTDPFA302,ctdpf_sbe43_sample,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [40.73, 321.05], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=-0.049, excess_kurt=-4.366): using 0.0015th and 99.9985th percentiles (99.7% coverage)."
+RS03AXPS,SF03A,2A-CTDPFA302,ctdpf_sbe43_sample,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [3.22, 323.67], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=-0.049, excess_kurt=-4.366): using 2.87e-05th and 99.9999713th percentiles (99.7% coverage)."
