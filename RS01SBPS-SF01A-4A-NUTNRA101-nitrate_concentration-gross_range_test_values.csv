@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPS,SF01A,4A-NUTNRA101,nutnr_a_sample,{'inp': 'nitrate_concentration'},"{'qartod': {'gross_range_test': {'suspect_span': [0.22, 38.64], 'fail_span': [0, 300]}}}",,"Non-normal distribution (skew=-0.759, excess_kurt=-3.747): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS01SBPS,SF01A,4A-NUTNRA101,nutnr_a_sample,{'inp': 'nitrate_concentration'},"{'qartod': {'gross_range_test': {'suspect_span': [0.01, 69.45], 'fail_span': [0, 300]}}}",,"Non-normal distribution (skew=-0.759, excess_kurt=-3.747): using 2.87e-05th and 99.9999713th percentiles (approx. 5 std devs)."

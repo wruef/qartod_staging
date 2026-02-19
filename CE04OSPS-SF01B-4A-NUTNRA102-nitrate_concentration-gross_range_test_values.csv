@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPS,SF01B,4A-NUTNRA102,nutnr_a_sample,{'inp': 'nitrate_concentration'},"{'qartod': {'gross_range_test': {'suspect_span': [0.47, 45.2], 'fail_span': [0, 300]}}}",,"Non-normal distribution (skew=-0.679, excess_kurt=-3.399): using 0.15th and 99.85th percentiles (99.7% coverage)."
+CE04OSPS,SF01B,4A-NUTNRA102,nutnr_a_sample,{'inp': 'nitrate_concentration'},"{'qartod': {'gross_range_test': {'suspect_span': [0.01, 79.62], 'fail_span': [0, 300]}}}",,"Non-normal distribution (skew=-0.679, excess_kurt=-3.399): using 2.87e-05th and 99.9999713th percentiles (approx. 5 std devs)."

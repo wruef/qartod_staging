@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03INT2,MJ03D,12-VEL3DB304,vel3d_b_sample,{'inp': 'roll'},"{'qartod': {'gross_range_test': {'suspect_span': [2.3, 16.0], 'fail_span': [-70, 70]}}}",,"Non-normal distribution (skew=1.370, excess_kurt=-2.799): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS03INT2,MJ03D,12-VEL3DB304,vel3d_b_sample,{'inp': 'roll'},"{'qartod': {'gross_range_test': {'suspect_span': [0.1, 40.7], 'fail_span': [-70, 70]}}}",,"Non-normal distribution (skew=1.370, excess_kurt=-2.799): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."

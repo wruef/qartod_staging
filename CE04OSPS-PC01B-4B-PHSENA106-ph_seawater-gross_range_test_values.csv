@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPS,PC01B,4B-PHSENA106,phsen_data_record,{'inp': 'ph_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [7.28, 8.45], 'fail_span': [6.9, 9]}}}",,"Non-normal distribution (skew=4.168, excess_kurt=42.264): using 0.15th and 99.85th percentiles (99.7% coverage)."
+CE04OSPS,PC01B,4B-PHSENA106,phsen_data_record,{'inp': 'ph_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [6.91, 8.9], 'fail_span': [6.9, 9]}}}",,"Non-normal distribution (skew=4.168, excess_kurt=42.264): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."

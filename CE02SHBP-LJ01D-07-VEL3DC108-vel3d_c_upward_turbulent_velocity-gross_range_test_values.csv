@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE02SHBP,LJ01D,07-VEL3DC108,vel3d_cd_velocity_data,{'inp': 'vel3d_c_upward_turbulent_velocity'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.18, 0.21], 'fail_span': [-5, 5]}}}",,"Normal distribution (skew=-0.243, excess_kurt=-1.087): using mean ± 3.0 standard deviations (μ=0.01, σ=0.07)."
+CE02SHBP,LJ01D,07-VEL3DC108,vel3d_cd_velocity_data,{'inp': 'vel3d_c_upward_turbulent_velocity'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.32, 0.34], 'fail_span': [-5, 5]}}}",,"Normal distribution (skew=-0.243, excess_kurt=-1.087): using mean ± 5.0 standard deviations (μ=0.01, σ=0.07)."

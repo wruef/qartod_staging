@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPS,SF01B,4F-PCO2WA102,pco2w_a_sami_data_record,{'inp': 'pco2_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [320.63, 1701.74], 'fail_span': [200, 2000]}}}",,"Non-normal distribution (skew=0.027, excess_kurt=-3.417): using 0.15th and 99.85th percentiles (99.7% coverage)."
+CE04OSPS,SF01B,4F-PCO2WA102,pco2w_a_sami_data_record,{'inp': 'pco2_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [203.73, 1997.45], 'fail_span': [200, 2000]}}}",,"Non-normal distribution (skew=0.027, excess_kurt=-3.417): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."

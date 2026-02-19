@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPS,SF01B,4B-VELPTD106,velpt_velocity_data,{'inp': 'velpt_d_northward_velocity'},"{'qartod': {'gross_range_test': {'suspect_span': [-1.73, 1.76], 'fail_span': [-5, 5]}}}",,"Non-normal distribution (skew=-0.072, excess_kurt=7.219): using 0.15th and 99.85th percentiles (99.7% coverage)."
+CE04OSPS,SF01B,4B-VELPTD106,velpt_velocity_data,{'inp': 'velpt_d_northward_velocity'},"{'qartod': {'gross_range_test': {'suspect_span': [-2.85, 2.85], 'fail_span': [-5, 5]}}}",,"Non-normal distribution (skew=-0.072, excess_kurt=7.219): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."

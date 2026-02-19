@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03ASHS,MJ03B,07-TMPSFA301,tmpsf_sample,{'inp': 'temperature10'},"{'qartod': {'gross_range_test': {'suspect_span': [2.32, 5.34], 'fail_span': [-5, 50]}}}",,"Non-normal distribution (skew=1.723, excess_kurt=-0.198): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS03ASHS,MJ03B,07-TMPSFA301,tmpsf_sample,{'inp': 'temperature10'},"{'qartod': {'gross_range_test': {'suspect_span': [2.18, 6.24], 'fail_span': [-5, 50]}}}",,"Non-normal distribution (skew=1.723, excess_kurt=-0.198): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."

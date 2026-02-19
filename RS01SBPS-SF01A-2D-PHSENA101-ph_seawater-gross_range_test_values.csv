@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SBPS,SF01A,2D-PHSENA101,phsen_data_record,{'inp': 'ph_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [7.33, 8.32], 'fail_span': [6.9, 9]}}}",,"Normal distribution (skew=0.479, excess_kurt=-1.998): using mean ± 3.0 standard deviations (μ=7.83, σ=0.17)."
+RS01SBPS,SF01A,2D-PHSENA101,phsen_data_record,{'inp': 'ph_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [7.0, 8.65], 'fail_span': [6.9, 9]}}}",,"Normal distribution (skew=0.479, excess_kurt=-1.998): using mean ± 5.0 standard deviations (μ=7.83, σ=0.17)."

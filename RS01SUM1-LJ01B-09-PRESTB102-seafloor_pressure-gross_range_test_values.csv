@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS01SUM1,LJ01B,09-PRESTB102,prest_real_time,{'inp': 'seafloor_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [791.58, 795.06], 'fail_span': [0, 4137]}}}",,"Non-normal distribution (skew=2.401, excess_kurt=777.324): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS01SUM1,LJ01B,09-PRESTB102,prest_real_time,{'inp': 'seafloor_pressure'},"{'qartod': {'gross_range_test': {'suspect_span': [791.14, 857.88], 'fail_span': [0, 4137]}}}",,"Non-normal distribution (skew=2.401, excess_kurt=777.324): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."

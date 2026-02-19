@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-RS03AXPS,SF03A,2D-PHSENA301,phsen_data_record,{'inp': 'ph_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [7.46, 8.28], 'fail_span': [6.9, 9]}}}",,"Non-normal distribution (skew=-0.326, excess_kurt=-2.470): using 0.15th and 99.85th percentiles (99.7% coverage)."
+RS03AXPS,SF03A,2D-PHSENA301,phsen_data_record,{'inp': 'ph_seawater'},"{'qartod': {'gross_range_test': {'suspect_span': [6.91, 8.93], 'fail_span': [6.9, 9]}}}",,"Non-normal distribution (skew=-0.326, excess_kurt=-2.470): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."

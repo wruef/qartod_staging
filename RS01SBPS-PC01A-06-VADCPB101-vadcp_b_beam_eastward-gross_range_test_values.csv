@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS01SBPS,PC01A,06-VADCPB101,vadcp_b_velocity_beam,{'inp': 'vadcp_b_beam_eastward'},"{'qartod': {'gross_range_test': {'suspect_span': [-4.96, 4.99], 'fail_span': [-5, 5]}}}",,"Non-normal distribution (skew=2.484, excess_kurt=34.063): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."

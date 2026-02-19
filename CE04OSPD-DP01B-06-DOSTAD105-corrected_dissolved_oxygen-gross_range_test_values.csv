@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPD,DP01B,06-DOSTAD105,dpc_optode_instrument_recovered,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [11.04, 167.82], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=1.173, excess_kurt=-2.436): using 0.15th and 99.85th percentiles (99.7% coverage)."
+CE04OSPD,DP01B,06-DOSTAD105,dpc_optode_instrument_recovered,{'inp': 'corrected_dissolved_oxygen'},"{'qartod': {'gross_range_test': {'suspect_span': [0.01, 220.12], 'fail_span': [0, 500]}}}",,"Non-normal distribution (skew=1.173, excess_kurt=-2.436): using 2.87e-05th and 99.9999713th percentiles (approx. 5 std devs)."
