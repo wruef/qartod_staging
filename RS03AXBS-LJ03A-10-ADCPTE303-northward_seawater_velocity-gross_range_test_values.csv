@@ -1,0 +1,2 @@
+subsite,node,sensor,stream,parameters,qcConfig,source,notes
+RS03AXBS,LJ03A,10-ADCPTE303,adcp_velocity_beam,{'inp': 'northward_seawater_velocity'},"{'qartod': {'gross_range_test': {'suspect_span': [-4.99, 4.98], 'fail_span': [-5, 5]}}}",,"Non-normal distribution (skew=nan, excess_kurt=nan): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs). Analysis performed on decimated dataset using xarray coarsen function: 217,729,792 points reduced to 10,368,085 points."
