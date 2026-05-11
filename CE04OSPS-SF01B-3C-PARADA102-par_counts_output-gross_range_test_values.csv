@@ -1,2 +1,2 @@
 subsite,node,sensor,stream,parameters,qcConfig,source,notes
-CE04OSPS,SF01B,3C-PARADA102,parad_sa_sample,{'inp': 'par_counts_output'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.2, 2413.95], 'fail_span': [-0.2, 5000]}}}",,"Non-normal distribution (skew=2.472, excess_kurt=4.929): using 2.87e-05th and 99.9999713th percentiles (approx. 5 std devs)."
+CE04OSPS,SF01B,3C-PARADA102,parad_sa_sample,{'inp': 'par_counts_output'},"{'qartod': {'gross_range_test': {'suspect_span': [-0.84, 2413.93], 'fail_span': [-1, 5000]}}}",,"Non-normal distribution (skew=2.476, excess_kurt=4.955): using 2.87e-05th and 99.9999713th percentiles (approx. 5.0 std devs)."
